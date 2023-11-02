@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm DongYul Lee👋
 
 <!--
 **DDongYul/DDongYul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=comeme0101)](https://solved.ac/comeme0101)
+
+![](https://github-readme-stats.vercel.app/api?username=DDongYul&show_icons=true)
+[![DDongYul's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DDongYul&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/DDongYul)
